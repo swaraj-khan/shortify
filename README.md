@@ -1,0 +1,2 @@
+# shortify
+Shorten URLs
